@@ -1,7 +1,0 @@
-qualquer budega dentro e salva
-Qualquer coisa editada no site
-<<<<<<< HEAD
-Coisa diferente do servidor
-=======
-Qualquer coisa no github
->>>>>>> 5dd6af837c3ce52fca3997326332f74f60dcf1f3
