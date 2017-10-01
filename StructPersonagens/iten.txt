@@ -1,0 +1,6 @@
+1 lapiseira topper;aumenta a quantidade de conhecimento
+
+2 caderno topper;aumenta a capacidade de aprendizado
+3 prova antiga;mais chance de acerto durante a prova
+4 cafezin;aumenta a energia
+5 livro roxo do cederj;aumenta o conhecimento em GA
