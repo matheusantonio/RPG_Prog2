@@ -1,0 +1,10 @@
+1;Livro Roxo do Cederj;aumenta conhecimento em GA;imagens/itens/01.png;126;176
+2;Lista de Calculo;aumenta conhecimento em Calculo 1;imagens/itens/02.png;198;176
+3;Memoria Cache;aumenta conhecimento em FAC;imagens/itens/03.png;270;176
+4;Rascunho de Programa;aumenta conhecimento em Prog 1;imagens/itens/04.png;343;176
+5;Saquinho do IHS;diminui estresse;imagens/itens/05.png;415;176
+6;Toddynho;aumenta energia;imagens/itens/06.png;487;176
+7;Trabalho sobre LSD;aumenta conhecimento em MD;imagens/itens/07.png;126;244
+8;Pe de Coelho;aumenta sorte;imagens/itens/08.png;198;244
+9;Motivacao;aumenta conhecimento adquirido;imagens/itens/09.png;270;244
+10;Caneta Desesquerdizadora;diminui doutrinacao em ICC;imagens/itens/10.png;343;244
