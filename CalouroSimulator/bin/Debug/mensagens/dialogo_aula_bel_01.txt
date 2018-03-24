@@ -1,0 +1,3 @@
+"Pessoal, hoje vamos aprender a calcular as 
+derivadas das funcoes trigonometricas inversas. 
+Seja y:R->R, y' = (d/dx)sen^-1(x) = ..."

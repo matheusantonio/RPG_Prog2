@@ -1,0 +1,3 @@
+"Sejam f e g duas funcoes continuas num intervalo I, 
+derivaveis no interior de I, tais que g'(x) != 0 para
+todo x no interior de I..."

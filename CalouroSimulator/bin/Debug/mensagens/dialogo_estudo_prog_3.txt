@@ -1,0 +1,3 @@
+"Apos cada comando, voce deve colocar um
+ponto-e-virgula (;) antes de quebrar a linha.
+POR FAVOR! COLOQUE O PONTO-E-VIRGULA!..."

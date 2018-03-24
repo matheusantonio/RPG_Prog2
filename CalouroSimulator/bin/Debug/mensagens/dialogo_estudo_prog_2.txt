@@ -1,0 +1,2 @@
+"A diferenca entre for e while e que um significa
+"para" em ingles, enquanto o outro significa "enquanto"."

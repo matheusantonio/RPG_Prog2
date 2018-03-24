@@ -1,0 +1,2 @@
+"Seja o espaco em R3, e seja o plano A e o plano B,
+se o plano A nao der certo, tente o plano B..."

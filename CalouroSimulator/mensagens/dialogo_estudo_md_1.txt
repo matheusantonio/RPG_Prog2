@@ -1,0 +1,3 @@
+"Relacao de recorrencia (ou passo recorrente) e uma 
+tecnica matematica que permite definir sequencias, 
+conjuntos, operacoes ou ate mesmo..."

@@ -1,0 +1,4 @@
+"Independente da linguagem de programacao utilizada,
+todo programa sera convertido em um conjunto de 
+instrucoes, chamado linguagem de montagem, antes de 
+ser convertido em codigo binario..."

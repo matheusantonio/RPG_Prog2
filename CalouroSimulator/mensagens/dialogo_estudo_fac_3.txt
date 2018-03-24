@@ -1,0 +1,3 @@
+"O complemento de dois serve pra tu fazer uma subtracao
+invertendo o segundo termo e somando com o primeiro +1.
+Na real subtrair e mais facil, mas tu tem que..."

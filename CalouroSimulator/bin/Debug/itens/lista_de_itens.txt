@@ -1,0 +1,24 @@
+1;Cafe;Diminui 12 de estresse;imagens/itens/01.png;126;176
+2;Coxinha do Trailer;aumenta 10 de eneriga;imagens/itens/02.png;198;176
+3;Coca Cola;Diminui 10 de estresse;imagens/itens/03.png;270;176
+4;Presunto e queijo;aumenta 10 de energia;imagens/itens/04.png;343;176
+5;Pao de queijo do Youtube;aumenta 15 de energia;imagens/itens/05.png;415;176
+6;Ipad do Burgues;Diminui 10 de estresse;imagens/itens/06.png;487;176
+7;Cafe com leite do Burgues;aumenta 15 de energia;imagens/itens/07.png;126;244
+8;Toddynho do Toin;aumenta 15 de energia;imagens/itens/08.png;198;244
+9;Maionese Caseira;aumenta 12 de energia;imagens/itens/09.png;270;244
+10;Pastel de Guarana;aumenta 10 de energia;imagens/itens/10.png;343;244
+11;Leite com Nescau;aumenta 10 de energia;imagens/itens/11.png;415;244
+12;Celular com jogos;diminuir 10 de estresse;imagens/itens/12.png;487;244
+13;Sorvete;aumenta 12 de energia;imagens/itens/13.png;126;313
+14;Hamburguer;aumenta 12 de energia;imagens/itens/14.png;198;313
+15;Quentinha da tia tereza;aumenta 12 de energia;imagens/itens/15.png;270;313
+16;Churrasquinho;aumenta 10 de energia;imagens/itens/16.png;343;313
+17;Pepsi;Diminui 10 de estresse;imagens/itens/17.png;415;313
+18;Sprite;Diminui 10 de estresse;imagens/itens/18.png;487;313
+
+ 
+
+
+
+ 

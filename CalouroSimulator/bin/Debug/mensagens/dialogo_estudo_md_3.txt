@@ -1,0 +1,3 @@
+"O principio de relacoes binarias esta ligado
+ao fato de os numeros serem proximos ou distantes
+entre si"

@@ -1,0 +1,5 @@
+"Bom dia pessoal. Hoje falaremos sobre um 
+tema recorrente na arquitetura de 
+computadores, que e o processador.
+Alias, na minha epoca, a maquina de 
+Babbage..."

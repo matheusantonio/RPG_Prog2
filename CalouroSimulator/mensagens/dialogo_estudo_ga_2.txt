@@ -1,0 +1,3 @@
+"Um triangulo e um quadrado, mas um quadrado nao
+e um triangulo, e sim um trapezio. Mas o trapezio
+e triangulo e e um paralelepipedo..."

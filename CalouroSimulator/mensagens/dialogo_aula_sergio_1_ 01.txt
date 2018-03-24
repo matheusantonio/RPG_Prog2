@@ -1,0 +1,4 @@
+"Caros alunos de Prog 1, hoje nao havera 
+atividades. Aproveitem o tempo livre para 
+estudar arquivos e funcoes recursivas 
+na sala. Os slides estao no Conexao."

@@ -1,0 +1,1 @@
+"Seja h: R->R, x|-sen x, h' e pintadinha"

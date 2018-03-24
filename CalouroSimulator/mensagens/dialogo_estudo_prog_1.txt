@@ -1,0 +1,3 @@
+"Em ciencia da computacao, a recursividade e a 
+definicao de uma sub-rotina (funcao ou metodo) 
+que pode invocar a si mesma..."

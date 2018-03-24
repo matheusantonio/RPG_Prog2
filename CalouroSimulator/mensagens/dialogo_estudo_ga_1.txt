@@ -1,0 +1,3 @@
+"Uma curva pode ser definida como sendo o conjunto
+de pontos que gozam de uma mesma propriedade, ou seja,
+como um lugar geometrico, ou como gerada por um ponto..."
